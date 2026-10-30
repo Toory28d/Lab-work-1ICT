@@ -1,0 +1,2 @@
+Add screenshots captured from your own Docker/Kubernetes runs here. No screenshots are fabricated.
+![Снимок экрана 2026-10-30 100356.png](../../../lab3/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-30%20100356.png)![Снимок экрана 2026-10-30 100424.png](../../../lab3/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-30%20100424.png)![Снимок экрана 2026-10-30 100121.png](../../../lab3/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-30%20100121.png)
